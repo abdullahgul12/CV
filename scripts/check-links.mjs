@@ -9,7 +9,7 @@ const root = join(fileURLToPath(import.meta.url), '..', '..');
 
 const REQUIRED = [
   // Profile, contact and socials
-  'https://drive.google.com/file/d/1fDvCzMDp5uuDkvFAiFJfwFgW13jJhC2t/view?usp=sharing',
+  'https://drive.google.com/file/d/1sk1VXncpDMjwrANdk-HdnfXy0JH85SqF/view?usp=sharing',
   'https://www.linkedin.com/in/abdullah-gul-424a6414b/',
   'https://web.facebook.com/abdullahgul11',
   'https://twitter.com/AbdullahGulAwa1',

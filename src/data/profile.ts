@@ -7,7 +7,7 @@ export const profile = {
   photo: 'images/profile.jpg', // under public/
   location: 'Lahore, Pakistan',
   buildingSince: 2018,
-  cvUrl: 'https://drive.google.com/file/d/1fDvCzMDp5uuDkvFAiFJfwFgW13jJhC2t/view?usp=sharing',
+  cvUrl: 'https://drive.google.com/file/d/1sk1VXncpDMjwrANdk-HdnfXy0JH85SqF/view?usp=sharing',
   about: [
     'I am currently working as a freelance game developer on various online platforms.',
     'I have been fond of games since my childhood, which led me to the game development industry.',
