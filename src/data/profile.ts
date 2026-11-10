@@ -6,7 +6,6 @@ export const profile = {
     'I build Unity games, React/React Native and MERN apps, and AI-integrated educational experiences.',
   photo: 'images/profile.jpg', // under public/
   location: 'Lahore, Pakistan',
-  currentStudy: 'MPhil in AI, PUCIT',
   buildingSince: 2018,
   cvUrl: 'https://drive.google.com/file/d/1fDvCzMDp5uuDkvFAiFJfwFgW13jJhC2t/view?usp=sharing',
   about: [

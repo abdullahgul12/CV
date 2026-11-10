@@ -6,7 +6,7 @@ import Reveal from './Reveal';
 export default function EducationSection() {
   return (
     <Section id="education" index={5} label="Education" title="Education">
-      <div className="grid gap-5 md:grid-cols-3">
+      <div className="grid gap-5 md:grid-cols-2">
         {education.map((e, i) => (
           <Reveal key={e.degree} delay={i * 0.06}>
             <article className="h-full rounded-2xl border border-line bg-surface p-6 transition duration-300 hover:-translate-y-1 hover:border-accent/50">

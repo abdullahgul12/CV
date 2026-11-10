@@ -1,4 +1,4 @@
-import { Download, GraduationCap, Mail, MapPin } from 'lucide-react';
+import { Download, Mail, MapPin } from 'lucide-react';
 import { profile } from '../data/profile';
 import { contact } from '../data/contact';
 import Section from './Section';
@@ -34,13 +34,6 @@ export default function About() {
                       {contact.email}
                     </a>
                   </p>
-                </div>
-              </li>
-              <li className="flex gap-3">
-                <GraduationCap aria-hidden="true" className="mt-0.5 h-5 w-5 shrink-0 text-accent" />
-                <div>
-                  <p className="text-muted">Current study</p>
-                  <p className="text-base text-ink">{profile.currentStudy}</p>
                 </div>
               </li>
             </ul>
