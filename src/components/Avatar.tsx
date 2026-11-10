@@ -23,7 +23,7 @@ export default function Avatar() {
       <img
         src={asset(profile.photo)}
         alt={`Portrait of ${profile.name}`}
-        width={700}
+        width={720}
         height={900}
         onError={() => setFailed(true)}
         className="aspect-[4/5] w-full rounded-[1.65rem] bg-surface object-cover object-top"
